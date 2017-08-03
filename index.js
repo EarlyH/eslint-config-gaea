@@ -363,7 +363,7 @@ module.exports = {
             "error",
             "as-needed"
         ],
-        "babel/arrow-parens": [
+        "arrow-parens": [
             "error",
             "as-needed"
         ],
