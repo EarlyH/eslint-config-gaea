@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/EarlyH/eslint-config-gaea/issues"
   },
-  "homepage": "https://github.com/EarlyH/eslint-config-gaea#readme"
+  "homepage": "https://github.com/EarlyH/eslint-config-gaea#readme",
+  "dependencies": {
+    "babel-eslint": "7.2.3"
+  }
 }
