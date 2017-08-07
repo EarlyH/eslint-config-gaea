@@ -25,3 +25,12 @@
     {
         "extends": "gaea"
     }
+
+## 运行ESLint
+
+> 示例中用`./src`表示需要lint的源码目录
+
+命令行运行: 进入项目目录，然后执行：
+
+    > node_modules/.bin/eslint ./src  // 检查代码
+    > node_modules/.bin/eslint ./src --fix // 检查代码并进行修复(只有部分问题可自动修复)
