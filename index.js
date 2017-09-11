@@ -71,6 +71,7 @@ module.exports = {
             "error",
             {
                 "ignore": [
+                    -1,
                     0,
                     1,
                     2,
