@@ -389,31 +389,31 @@ module.exports = {
         "max-len": [
             "error",
             {
-                "max": 80
+                "code": 80
             }
         ],
         "max-lines": [
             "error",
             {
-                max: 1000
+                "max": 1000
             }
         ],
         "max-lines-per-function": [
             "error",
             {
-                max: 100
+                "max": 100
             }
         ],
         "max-nested-callbacks": [
             "error",
             {
-                max: 10
+                "max": 10
             }
         ],
         "max-params": [
             "error",
             {
-                max: 5
+                "max": 5
             }
         ],
         "max-statements-per-line": [
